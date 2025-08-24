@@ -1,9 +1,17 @@
-Så laddar du den lokalt
+## Avanza courtage kalkylator chrome plugin
 
-Git clone
+Så laddar du den lokalt:
 
-Öppna chrome://extensions, slå på Developer mode.
+- Git clone
 
-Klicka Load unpacked och välj mappen du klonade
+- Öppna chrome://extensions, slå på Developer mode.
 
-Gå till Avanzas ordervy – panelen dyker upp längst ned till höger. Den beräknar Avanza courtageklass automatiskt och markerar bästa priset!
+- Klicka Load unpacked och välj mappen du klonade
+
+Gå till Avanzas ordervy – panelen dyker upp längst ned till höger. 
+
+Den beräknar Avanza courtageklass automatiskt och markerar bästa priset! 
+
+So awesome! :D
+
+![Screenshot](screenshot.png)
