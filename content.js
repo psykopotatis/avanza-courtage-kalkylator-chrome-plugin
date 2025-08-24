@@ -80,6 +80,8 @@
         // Försök hitta ett belopps-/summafält på sidan och synka (icke-kritiskt).
         // Lägg gärna till fler selektorer vid behov.
         const candidateSelectors = [
+            "#inputAmount",
+            "input[data-e2e='inputAmount']",
             "input[name='amount']",
             "input[id*='amount']",
             "input[name*='belopp']",
