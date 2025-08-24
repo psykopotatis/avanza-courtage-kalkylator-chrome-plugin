@@ -1,0 +1,11 @@
+Detta är ett Chrome-extension (Manifest V3, med live-panel) som beräknar avanza courtageklasser
+beroende på belopp man tänker handla för.
+
+Detta skapar en liten flytande panel som:
+alltid visas på avanza.se (kan begränsas till specifika URL:er),
+- - låter dig skriva in affärsbelopp
+- uppdaterar tabellen direkt.
+
+
+- Kan du ta bort "start" klassen
+Kan du ta bort tabellen "Notis"
